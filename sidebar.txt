@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[slf:home|Door43 (slf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-slf|d43-slf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-slf/archive/master.zip|d43-slf.zip]]
+
+**Recent Changes**
+{{changes>ns = slf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/slf|Ethnologue data]]
+
